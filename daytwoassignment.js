@@ -12,5 +12,5 @@ if (b>c) {
   console.log(b)
 }
 else{
-  console,log(c)
+  console.log(c)
 }
